@@ -1,1 +1,0 @@
-gamemode spectator @a[scores={deaths=1}]
